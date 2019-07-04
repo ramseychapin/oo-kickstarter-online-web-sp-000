@@ -4,5 +4,6 @@ class Project
 
   def initialize(title)
     @title = title
+    @backend_projects = []
   end
 end
